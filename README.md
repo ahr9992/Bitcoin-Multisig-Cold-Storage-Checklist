@@ -92,7 +92,7 @@
 | 参考 | GO / NO-GO 中止条件汇总 |
 | 附录 | 掷骰记录表、日期与操作记录表 |
 
-适用设备：SeedSigner、Blockstream Jade、Krux、Trezor、Keystone 等任何受 Sparrow 支持的硬件钱包。
+适用设备：SeedSigner、Blockstream Jade、Krux、Trezor、Keystone、OneKey 等任何受 Sparrow 支持的硬件钱包。
 
 ## 文件
 

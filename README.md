@@ -70,7 +70,8 @@
 |---|---|
 | DIY Blockstream Jade | [观看视频](https://www.youtube.com/watch?v=8e2aqMfK5os) |
 | DIY SeedSigner | [观看视频](https://www.youtube.com/watch?v=wvh1GruJACg) |
-| DIY Krux | [观看视频](https://www.youtube.com/watch?v=AciSXdzOK5I) |
+| DIY Krux Wallet| [观看视频](https://www.youtube.com/watch?v=AciSXdzOK5I) |
+| DIY Specter Wallet | [观看视频](https://www.youtube.com/watch?v=DPW9j0Qtq-g) |
 
 
 ### 3. 把操作写成清单，减少人为失误

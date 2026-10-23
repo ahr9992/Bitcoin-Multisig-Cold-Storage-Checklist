@@ -4,16 +4,7 @@
 >
 > 一份可打印、可逐项打勾的比特币 2-of-3 多签冷存储操作清单，参照航空业"飞行前 / 飞行中 / 紧急情况"清单的写法编写。
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/Fh9PVVl_kwA"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin"
-  allowfullscreen>
-</iframe>
+[![点击播放 YouTube 视频](https://img.youtube.com/vi/Fh9PVVl_kwA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fh9PVVl_kwA)
 
 ## 为什么要写这份清单
 

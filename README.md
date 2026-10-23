@@ -4,6 +4,17 @@
 >
 > 一份可打印、可逐项打勾的比特币 2-of-3 多签冷存储操作清单，参照航空业"飞行前 / 飞行中 / 紧急情况"清单的写法编写。
 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/Fh9PVVl_kwA"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
+
 ## 为什么要写这份清单
 
 2026 年 10 月，Ledger 硬件钱包被曝出**硬件供应链攻击**：设备在到达用户手中之前，被人在机壳内植入了一块带 LTE 蜂窝网络和 eSIM 的间谍电路板。用户一旦在设备上生成并显示助记词，植入物就会把助记词悄悄发给攻击者。链上研究机构估算的被盗金额约为 9,000 万美元以上，受害钱包超过 300 个。

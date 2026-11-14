@@ -157,7 +157,7 @@ Block（原 Square）公开提供比特币储备证明，区分公司自有比�
 
 回到付鹏的访谈，我并不认为宏观分析、机构配置和价格研究没有意义，它们能解释比特币在传统金融市场中的一部分表现。但它们不能替代对比特币本身的理解：ETF 可以让投资者获得价格敞口，却不能替代个人掌握私钥；有限供给可以帮助理解稀缺性，却不能单独推出市场容量的上限；宏观金融可以解释价格波动，却未必能解释为什么个人需要一种无需许可的数字资产控制方式。
 
-最后想起中本聪的一句话，大意是：你不信，或者还没懂，我没空说服你。美国财政部长贝森特 7 月底为《CLARITY 法案》喊话时，该法案里的 BRCA 条款还要保护非托管钱包和去中心化软件的开发者。连立法者都在为“自己持有、自己保管”这种方式单独设计规则，说明它不是少数人的信仰，而是一种需要被制度回应的产权安排。这句话单独拿来用，容易被读成圈层话术，我更愿意把它理解为一个邀请：你可以不持有比特币，也可以通过 ETF 投资，但在评价它之前，至少亲自体验一次私钥管理、钱包恢复和链上交易。
+最后想起中本聪的一句话：If you don't believe me or don't get it, I don't have time to try to convince you, sorry. 你不信，或者还没懂，我没空说服你。美国财政部长贝森特 7 月底为《CLARITY 法案》喊话时，也引用了这句话。你可以不持有比特币，也可以通过 ETF 投资，但在评价它之前，至少亲自体验一次私钥管理、钱包恢复和链上交易。
 
 每一轮牛市，都有人因为价格上涨而入场。有人赚到钱后离开，也有人在学习中逐渐理解比特币，选择留下来。机构同样如此：有些只把它当作交易标的，有些则纳入长期储备战略，甚至参与技术和产品建设。这些长期持有者，可能在市场低迷时减少可出售供给，为价格提供一股供给侧的支撑力量。
 
@@ -174,8 +174,5 @@ Block（原 Square）公开提供比特币储备证明，区分公司自有比�
 5. [Strategy 2026 年 11 月 9 日披露](https://assets.contentstack.io/v3/assets/bltf8d808d9b8cebd37/blt774a5e2dc289c575/6af103cd2b6f9e7c6d4d2d1e/form-8-k_11-09-2026.pdf)
 6. [Block Bitcoin Proof of Reserves](https://block.xyz/proof-of-reserves)
 7. [Metaplanet 2026 Q3 比特币交易披露](https://metaplanet.jp/disclosure-pdf/140120261005546274.pdf)
-8. [MARA 2026 Q3 10-Q](https://ir.mara.com/sec-filings/all-sec-filings/content/0001507605-26-000028/mara-20260930.htm)
-9. [IMF：萨尔瓦多 2026 年 9 月项目审查文件](https://www.elibrary.imf.org/view/journals/002/2026/258/article-A003-en.xml)
-10. [萨尔瓦多公开地址链上统计](https://satoshigazette.org/data/holdings)
 
 案例数据来自各公司和 IMF 的披露文件，截至文中所列日期。

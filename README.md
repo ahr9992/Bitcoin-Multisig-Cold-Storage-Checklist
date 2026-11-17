@@ -74,6 +74,7 @@
 | DIY SeedSigner | [观看视频](https://www.youtube.com/watch?v=wvh1GruJACg) |
 | DIY Krux Wallet| [观看视频](https://www.youtube.com/watch?v=AciSXdzOK5I) |
 | DIY Specter Wallet | [观看视频](https://www.youtube.com/watch?v=DPW9j0Qtq-g) |
+| iPhone + Blue Wallet冷钱包 | [观看视频](https://www.youtube.com/watch?v=gRWJnbsFoMw) |
 
 
 ### 3. 把操作写成清单，减少人为失误
